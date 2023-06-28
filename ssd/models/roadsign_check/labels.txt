@@ -1,0 +1,5 @@
+BACKGROUND
+trafficlight
+stop
+speedlimit
+crosswalk
