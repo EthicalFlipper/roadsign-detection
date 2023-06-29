@@ -29,4 +29,4 @@ I decided to use the detectNet network which is a pre-trained model that I could
 7. That's it!
 ## Extra Notes
 1. The model I chose does not work well with signs that are far away, but works very well with signs up close.
-2. The network typically detects multiple signs when there is only one. Accuracy is still high, but it may obstruct your vision of the sign.
+2. The network typically detects multiple signs when there is only one. Accuracy is still high, but it may obstruct your vision of the sign. 
