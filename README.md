@@ -20,5 +20,5 @@ I decided to use the detectNet network which is a pre-trained model that I could
 3. The model should be saved as ssd-mobilenet.onnx
 ## Test Model
 1. Make sure you have ssd-mobilenet.onnx under data/models/roadsign_check
-2. Look for an image to test in the test.txt file (ex. road
-3. Run the following command
+2. Look for an image to test in the test.txt file (ex. road112)
+3. Run the following command: detectnet --model=
